@@ -7,4 +7,5 @@ Solidity 0.5
 @ Setup
 
 Install Xinpay chrome extension.
+
 Run smart contract using xinfin remix ide.
